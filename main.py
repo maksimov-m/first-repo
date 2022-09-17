@@ -1,2 +1,3 @@
+name = input("Input name: ")
 print("Hello, World!")
-print("Welcome, Max")
+print(f"Welcome, {name}")
